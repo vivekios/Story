@@ -1,1 +1,1 @@
-This is the chapter 2 created to work with git command.
+This is the chapter 2 created to work with git command. Now this is the beginning of age of aliens,
